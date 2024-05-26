@@ -11,7 +11,8 @@ Welcome to my portfolio, my name is Vin Galante and i recently made a transition
 
 ## Deployment
 
-LIVE DEMO: ([Visit Live >](https://vgalante2.github.io/Weather_App/))
+Heroku URL: ([Visit Live >](https://secure-springs-27667-ee4fa3c417c6.herokuapp.com/))
+LIVE DEMO: ([Visit Live >](https://react-port-prjj0lmam-vgalante2s-projects.vercel.app))
 
 ## Usage
 
